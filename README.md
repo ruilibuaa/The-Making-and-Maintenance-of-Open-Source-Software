@@ -23,12 +23,12 @@
 
 翻译连载：《WORKING IN PUBLIC：THE MAKING AND MAINTENANCE OF OPEN SOURCE SOFTWARE》   
 
-![](https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/the%20cover.jpg)
+<img src="https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/the%20cover.jpg" height="300" width="250" />
 
 
 作者:Nadia Eghbal     
 
-
+<img src="https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/author.png" width="200" height="200" />
 
 个人主页：https://nadiaeghbal.com/  
 
