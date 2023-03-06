@@ -2,9 +2,9 @@
 
 1. [引言](https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/%E5%BC%95%E8%A8%80.md)
 
-2. [Part1：人们如何开发](#2)
+2. [Part1：人们如何开发](https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/github%E5%B9%B3%E5%8F%B0.md)
 
-   * [2.1 github平台](#5)
+   * [2.1 github平台](https://github.com/ruilibuaa/The-Making-and-Maintenance-of-Open-Source-Software/blob/main/github%E5%B9%B3%E5%8F%B0.md)
    
    * [2.2 一个开源项目的结构](#6)
    
